@@ -1,5 +1,6 @@
 ### Hi there I'm Bloom (Remi Blom-Ohlsen) 👋
 - 🔭 I’m currently working with TypeScript, React, CSS (SCSS) and NodeJS
+- ✨ Passion for UI/UX, frontend, and the visuals
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **anything**
 
