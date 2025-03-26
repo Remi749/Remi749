@@ -1,5 +1,5 @@
 ### Hi there I'm Bloom (Remi Blom-Ohlsen) 👋
-- 🔭 I’m currently working with TypeScript, React and NodeJS
+- 🔭 I’m currently working with TypeScript, React, CSS (SCSS) and NodeJS
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **anything**
 
