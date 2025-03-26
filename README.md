@@ -1,4 +1,4 @@
-### Hi there I'm Bloom (Remi749) 👋
+### Hi there I'm Bloom (Remi Blom-Ohlsen) 👋
 - 🔭 I’m currently working with TypeScript, React and NodeJS
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **anything**
